@@ -1,1 +1,1 @@
-СІПл (LeetCode) жаЙњЙйЭјЃК<https://leetcode-cn.com/>
+LeetCodeЃК<https://leetcode-cn.com/>
