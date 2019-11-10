@@ -1,1 +1,1 @@
-LeetCode£º<https://leetcode-cn.com/>
+LeetCode: <https://leetcode-cn.com/>
