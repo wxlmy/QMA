@@ -1,7 +1,6 @@
-### jsoncpp manual ###
+### JsonCpp Doc ###
 
-| source code | <https://github.com/open-source-parsers/jsoncpp> |
-| ----------- | ------------------------------------------------ |
-| wikibook    | <https://en.wikibooks.org/wiki/JsonCpp>          |
-|             |                                                  |
+* [JsonCpp source code](https://github.com/open-source-parsers/jsoncpp)
+
+* [JsonCpp wiki book](https://en.wikibooks.org/wiki/JsonCpp)
 

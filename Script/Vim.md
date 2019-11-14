@@ -1,8 +1,6 @@
-### VIM 快捷键
+### VIM Doc
 
-<https://linux.cn/article-8144-1.html>
-
-
+* [vim 快捷键](https://linux.cn/article-8144-1.html)
 
 
 
