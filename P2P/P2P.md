@@ -1,4 +1,4 @@
-### Important Concept
+**P2P Wiki**
 
 * [P2P](https://en.wikipedia.org/wiki/Peer-to-peer)
 

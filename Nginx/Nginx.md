@@ -1,4 +1,4 @@
-### NGINX Doc
+**NGINX Doc**
 
 * [Nginx official website](https://www.nginx.com/)
 

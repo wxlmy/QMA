@@ -1,4 +1,4 @@
-### Important Concept
+**Desgin Patterns Wiki**
 
 * [Reactor pattern](https://en.wikipedia.org/wiki/Reactor_pattern)
 
